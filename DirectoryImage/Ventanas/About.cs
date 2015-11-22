@@ -12,7 +12,7 @@ namespace DirectoryImage
         public About()
         {
             InitializeComponent();
-
+            //This is just a small change to test Commit.
             //  Initialize the AboutBox to display the product information from the assembly information.
             //  Change assembly information settings for your application through either:
             //  - Project->Properties->Application->Assembly Information
